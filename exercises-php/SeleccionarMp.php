@@ -1,6 +1,5 @@
 <?php 
 
-// Sistema para comprar las vacas que produzcan mas leche
 
 $vaca1 = array(
 
